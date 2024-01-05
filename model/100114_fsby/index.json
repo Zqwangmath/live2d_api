@@ -23,10 +23,6 @@
         {
             "file":"expression/shengqi.exp.json",
             "name":"shengqi.exp.json"
-        },
-        {
-            "file":"expression/wunai.exp.json",
-            "name":"wunai.exp.json"
         }
     ],
     "layout":{ // 新增 调整模型位置及长宽
