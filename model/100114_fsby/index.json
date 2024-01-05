@@ -43,10 +43,10 @@
             {"file":"action/idle.mtn"}
         ],
         "flick_head":[ 
-            {"file":"action/fumaozi.mtn"}
+            {"file":"action/tongku.mtn"}
         ],
         "tap_body":[ 
-            {"file":"action/sikao.mtn"}
+            {"file":"action/yaotou.mtn"}
         ]
     },
     "textures":[
